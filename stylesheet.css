@@ -203,6 +203,7 @@ header{
   
   .top-wrapper {
     text-align: left;
+    background-size:cover;
   }
   
   .top-wrapper h1 {
@@ -212,4 +213,5 @@ header{
   .top-wrapper p {
     font-size: 14px;
   }
+  
 }
