@@ -168,7 +168,6 @@ header{
     background-color:black;
     border-radius:30px;
     animation:right 2s .3s ease-out infinite alternate;
-
   }
 
   @keyframes right{
@@ -228,8 +227,5 @@ header{
   
   .ball{
     display:none;
-  }
-  
-  
-  
+  }  
 }
