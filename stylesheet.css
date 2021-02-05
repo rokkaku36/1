@@ -188,7 +188,7 @@ header{
     height:350px;
   }
 
-@media (max-width: 670px) {
+@media (max-width: 768px) {
   .lesson {
     width: 100%;
   }
@@ -201,10 +201,15 @@ header{
     width: 100%;
   }
   
-  .top-wrapper {
-    text-align: left;
-    background-size:cover;
-  }
+  .top-wrapper{
+    padding: 100px 0 80px 0;
+    background-image:url("lion.png");
+    background-color:rgba(255,255,255,0.3);
+    background-blend-mode:lighten;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
   
   .top-wrapper h1 {
     font-size: 24px;
