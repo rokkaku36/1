@@ -233,4 +233,8 @@ header{
   footer img{
     display:none;
   }
+  
+  .container img{
+    display:none;
+  }
 }
