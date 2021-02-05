@@ -223,9 +223,14 @@ header{
 
   .top-wrapper p {
     font-size: 14px;
+    letter-spacing:4px;
   }
   
   .ball{
     display:none;
   }  
+  
+  footer img{
+    display:none;
+  }
 }
